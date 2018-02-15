@@ -1,0 +1,21 @@
+{
+  "name": "mogoosedemo",
+  "version": "1.0.0",
+  "description": "mogoose 功能演示，每个文件单独运行",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/271293794/mongooseDemo.git"
+  },
+  "author": "dengyunhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/271293794/mongooseDemo/issues"
+  },
+  "homepage": "https://github.com/271293794/mongooseDemo#readme",
+  "dependencies": {
+    "mongoose": "^5.0.5"
+  }
+}
